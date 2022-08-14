@@ -1,0 +1,22 @@
+{
+    "traits": [
+        {
+            "name": "360° Vision",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "exotic"
+            ],
+            "source": "B"
+        },
+        {
+            "name": "Absolute Direction",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "mental"
+            ],
+            "source": "B"
+        }
+    ]
+}
