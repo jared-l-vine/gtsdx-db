@@ -1,0 +1,10 @@
+{
+    "sources": [
+        {
+            "name": "GURPS Basic Set",
+            "path": "Core",
+            "searchText": "B",
+            "defaultActive": "true"
+        }
+    ]
+}
