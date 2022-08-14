@@ -1,11 +1,6 @@
 {
-    "trait_sets": [
-        "basic-set-advantages.json"
-    ],
-    "presets": [
-
-    ],
-    "filters": [
-
+    "files": [
+        "basic-set-advantages.json",
+        "sensory-filter.json"
     ]
 }
