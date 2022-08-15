@@ -1,0 +1,29 @@
+{
+    "filters":[
+        {
+            "name": "Physical",
+            "path": "Advantage Subtypes",
+            "searchText": ">physical"
+        },
+        {
+            "name": "Mental",
+            "path": "Advantage Subtypes",
+            "searchText": ">mental"
+        },
+        {
+            "name": "Social",
+            "path": "Advantage Subtypes",
+            "searchText": ">social"
+        },
+        {
+            "name": "Exotic",
+            "path": "Advantage Subtypes",
+            "searchText": ">exotic"
+        },
+        {
+            "name": "Supernatural",
+            "path": "Advantage Subtypes",
+            "searchText": ">supernatural"
+        }
+    ]
+}

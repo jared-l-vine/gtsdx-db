@@ -7,7 +7,16 @@
                 "physical",
                 "exotic"
             ],
-            "source": "B"
+            "source": "B34"
+        },
+        {
+            "name": "3D Spatial Sense",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "mental"
+            ],
+            "source": "B34"
         },
         {
             "name": "Absolute Direction",
@@ -16,7 +25,173 @@
                 "physical",
                 "mental"
             ],
-            "source": "B"
+            "source": "B34"
+        },
+        {
+            "name": "Absolute Timing",
+            "type": "advantage",
+            "tags": [
+                "mental"
+            ],
+            "source": "B35"
+        },
+        {
+            "name": "Acute Hearing",
+            "type": "advantage",
+            "tags": [
+                "physical"
+            ],
+            "source": "B35"
+        },
+        {
+            "name": "Acute Taste and Smell",
+            "type": "advantage",
+            "tags": [
+                "physical"
+            ],
+            "source": "B35"
+        },
+        {
+            "name": "Acute Touch",
+            "type": "advantage",
+            "tags": [
+                "physical"
+            ],
+            "source": "B35"
+        },
+        {
+            "name": "Acute Vision",
+            "type": "advantage",
+            "tags": [
+                "physical"
+            ],
+            "source": "B35"
+        },
+        {
+            "name": "Administrative Rank",
+            "type": "advantage",
+            "tags": [
+                "social"
+            ],
+            "source": "B35"
+        },
+        {
+            "name": "Affliction",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "exotic"
+            ],
+            "source": "B35"
+        },
+        {
+            "name": "Allies",
+            "type": "advantage",
+            "tags": [
+                "social"
+            ],
+            "source": "B36"
+        },
+        {
+            "name": "Altered Time Rate",
+            "type": "advantage",
+            "tags": [
+                "mental",
+                "exotic"
+            ],
+            "source": "B38"
+        },
+        {
+            "name": "Alternate Identity",
+            "type": "advantage",
+            "tags": [
+                "social"
+            ],
+            "source": "B39"
+        },
+        {
+            "name": "Ambidexterity",
+            "type": "advantage",
+            "tags": [
+                "physical"
+            ],
+            "source": "B39"
+        },
+        {
+            "name": "Amphibious",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "exotic"
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Animal Empathy",
+            "type": "advantage",
+            "tags": [
+                "mental"
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Animal Friend",
+            "type": "advantage",
+            "tags": [
+                "mental"
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Appearance",
+            "type": "advantage",
+            "tags": [
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Arm DX",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "exotic"
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Arm ST",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "exotic"
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Artificer",
+            "type": "advantage",
+            "tags": [
+                "mental"
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Binding",
+            "type": "advantage",
+            "tags": [
+                "physical",
+                "exotic"
+            ],
+            "source": "B40"
+        },
+        {
+            "name": "Blessed",
+            "type": "advantage",
+            "tags": [
+                "mental",
+                "supernatural"
+            ],
+            "source": "B40"
         }
     ]
 }
