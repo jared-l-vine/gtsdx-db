@@ -1,9 +1,9 @@
 {
     "files": [
+        "gcs-sources.json",
         "type-filters.json",
         "tag-filters.json",
         "basic-set-advantages.json",
-        "source-list.json",
         "sensory-filter.json"
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "name": "GURPS Basic Set",
+            "path": "Core",
+            "searchText": "B",
+            "defaultActive": "true",
+            "gcsPaths": [
+                "Basic%20Set/Basic%20Set%20Advantages.adq",
+                "Basic%20Set/Basic%20Set%20Skills.skl"
+            ]
+        }
+    ]
+}
