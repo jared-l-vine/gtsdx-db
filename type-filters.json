@@ -1,0 +1,29 @@
+{
+    "filters":[
+        {
+            "name": "Advantages",
+            "path": "Trait Types",
+            "searchText": ":advantage"
+        },
+        {
+            "name": "Disadvantages",
+            "path": "Trait Types",
+            "searchText": ":disadvantage"
+        },
+        {
+            "name": "Skills",
+            "path": "Trait Types",
+            "searchText": ":skill"
+        },
+        {
+            "name": "Perks",
+            "path": "Trait Types",
+            "searchText": ":perk"
+        },
+        {
+            "name": "Quirks",
+            "path": "Trait Types",
+            "searchText": ":quirk"
+        }
+    ]
+}

@@ -2,6 +2,7 @@
     "files": [
         "basic-set-advantages.json",
         "sensory-filter.json",
-        "source-list.json"
+        "source-list.json",
+        "type-filters.json"
     ]
 }
