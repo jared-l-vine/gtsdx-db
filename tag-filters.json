@@ -27,37 +27,37 @@
         },
         {
             "name": "Easy",
-            "path": "Skill/Difficulties",
+            "path": "Skills/Difficulties",
             "searchText": "c=easy"
         },
         {
             "name": "Average",
-            "path": "Skill/Difficulties",
+            "path": "Skills/Difficulties",
             "searchText": "c=average"
         },
         {
             "name": "Hard",
-            "path": "Skill/Difficulties",
+            "path": "Skills/Difficulties",
             "searchText": "c=hard"
         },
         {
             "name": "Very Hard",
-            "path": "Skill/Difficulties",
+            "path": "Skills/Difficulties",
             "searchText": "c=very-hard"
         },
         {
             "name": "DX",
-            "path": "Skill/Attributes",
+            "path": "Skills/Attributes",
             "searchText": "c=dx"
         },
         {
             "name": "IQ",
-            "path": "Skill/Attributes",
+            "path": "Skills/Attributes",
             "searchText": "c=IQ"
         },
         {
             "name": "HT",
-            "path": "Skill/Attributes",
+            "path": "Skills/Attributes",
             "searchText": "c=ht"
         },
         {
