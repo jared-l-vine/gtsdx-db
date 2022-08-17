@@ -3,27 +3,27 @@
         {
             "name": "Physical",
             "path": "Advantage Subtypes",
-            "searchText": ">physical"
+            "searchText": "c=physical"
         },
         {
             "name": "Mental",
             "path": "Advantage Subtypes",
-            "searchText": ">mental"
+            "searchText": "c=mental"
         },
         {
             "name": "Social",
             "path": "Advantage Subtypes",
-            "searchText": ">social"
+            "searchText": "c=social"
         },
         {
             "name": "Exotic",
             "path": "Advantage Subtypes",
-            "searchText": ">exotic"
+            "searchText": "c=exotic"
         },
         {
             "name": "Supernatural",
             "path": "Advantage Subtypes",
-            "searchText": ">supernatural"
+            "searchText": "c=supernatural"
         }
     ]
 }

@@ -3,27 +3,33 @@
         {
             "name": "Advantages",
             "path": "Trait Types",
-            "searchText": ":advantage"
+            "searchText": "t=advantage"
         },
         {
             "name": "Disadvantages",
             "path": "Trait Types",
-            "searchText": ":disadvantage"
+            "searchText": "t=disadvantage"
         },
-        {
-            "name": "Skills",
-            "path": "Trait Types",
-            "searchText": ":skill"
-        },
+        
         {
             "name": "Perks",
             "path": "Trait Types",
-            "searchText": ":perk"
+            "searchText": "t=perk"
         },
         {
             "name": "Quirks",
             "path": "Trait Types",
-            "searchText": ":quirk"
+            "searchText": "t=quirk"
+        },
+        {
+            "name": "Skills",
+            "path": "Trait Types",
+            "searchText": "t=skill"
+        },
+        {
+            "name": "Techniques",
+            "path": "Trait Types",
+            "searchText": "t=technique"
         }
     ]
 }
