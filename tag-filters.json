@@ -24,6 +24,51 @@
             "name": "Supernatural",
             "path": "Advantage Subtypes",
             "searchText": "c=supernatural"
+        },
+        {
+            "name": "Easy",
+            "path": "Skill/Difficulties",
+            "searchText": "c=easy"
+        },
+        {
+            "name": "Average",
+            "path": "Skill/Difficulties",
+            "searchText": "c=average"
+        },
+        {
+            "name": "Hard",
+            "path": "Skill/Difficulties",
+            "searchText": "c=hard"
+        },
+        {
+            "name": "Very Hard",
+            "path": "Skill/Difficulties",
+            "searchText": "c=very-hard"
+        },
+        {
+            "name": "DX",
+            "path": "Skill/Attributes",
+            "searchText": "c=dx"
+        },
+        {
+            "name": "IQ",
+            "path": "Skill/Attributes",
+            "searchText": "c=IQ"
+        },
+        {
+            "name": "HT",
+            "path": "Skill/Attributes",
+            "searchText": "c=ht"
+        },
+        {
+            "name": "Perception",
+            "path": "Skills/Attributes",
+            "searchText": "c=per"
+        },
+        {
+            "name": "Will",
+            "path": "Skills/Attributes",
+            "searchText": "c=will"
         }
     ]
 }
