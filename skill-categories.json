@@ -1,0 +1,21 @@
+{
+    "filters":[
+        {
+            "name": "Animal",
+            "path": "Skill Categories",
+            "searchText": "filter_skills_animals",
+            "elements": [
+                "Animal Handling",
+                "Falconry",
+                "Mimicry (Animal Sounds)",
+                "Mimicry (Bird Calls)",
+                "Mount",
+                "Naturalist",
+                "Packing",
+                "Riding",
+                "Teamster",
+                "Veterinary"
+            ]
+        }
+    ]
+}
