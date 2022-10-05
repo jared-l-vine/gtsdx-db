@@ -1,29 +1,64 @@
 {
     "filters":[
         {
+            "name": "All Traits",
+            "path": "Traits",
+            "searchText": "t=trait"
+        },
+        {
+            "name": "Advantage",
+            "path": "Traits",
+            "searchText": "c=advantage"
+        },
+        {
+            "name": "Disandvantage",
+            "path": "Traits",
+            "searchText": "c=disadvantage"
+        },
+        {
+            "name": "Perk",
+            "path": "Traits",
+            "searchText": "c=perk"
+        },
+        {
+            "name": "Quirk",
+            "path": "Traits",
+            "searchText": "c=quirk"
+        },
+        {
             "name": "Physical",
-            "path": "Advantage Subtypes",
+            "path": "Traits",
             "searchText": "c=physical"
         },
         {
             "name": "Mental",
-            "path": "Advantage Subtypes",
+            "path": "Traits",
             "searchText": "c=mental"
         },
         {
             "name": "Social",
-            "path": "Advantage Subtypes",
+            "path": "Traits",
             "searchText": "c=social"
         },
         {
             "name": "Exotic",
-            "path": "Advantage Subtypes",
+            "path": "Traits",
             "searchText": "c=exotic"
         },
         {
             "name": "Supernatural",
-            "path": "Advantage Subtypes",
+            "path": "Traits",
             "searchText": "c=supernatural"
+        },
+        {
+            "name": "Skill",
+            "path": "Skills",
+            "searchText": "c=skill"
+        },
+        {
+            "name": "Technique",
+            "path": "Skills",
+            "searchText": "c=technique"
         },
         {
             "name": "Easy",
